@@ -80,6 +80,12 @@ Those are a few of the basics, but there is lots more to explore. [This is a gre
 
 This material was developed by the RCDS team at ECRI.
 
+
+| abc | def |
+|--- | --- |
+| mmmm | ccc |
+
+
 <!-- Images are similar but begin with an exclamation point ![ALT TEXT](URL) -->
 
 ![ECRI logo](docs/assets/ecri-banner.png)
