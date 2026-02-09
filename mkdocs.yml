@@ -1,2 +1,10 @@
-site_name: My Docs
+site_name: My Markdown Website
 theme: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+theme:
+    name: material
+    palette:
+      primary: purple

@@ -11,6 +11,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
+these will be autosaved to website
+
+![the ecri banner](assets/ecri-banner.png)
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
